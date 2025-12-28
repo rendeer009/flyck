@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/rendeer009/flyck:latest
+          tags: ghcr.io/rendeer009/flyckk:latest
